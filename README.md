@@ -1,6 +1,8 @@
 # Jogo do número Secreto 
 Bem-vindo ao Jogo do Número Secreto! Este é um pequeno projeto desenvolvido durante os cursos da Alura, onde buscamos aprimorar nossas habilidades em lógica de programação utilizando JavaScript.
 
+![numero secreto](https://github.com/debCristina/numero-secreto/assets/133518001/9f259b94-1890-43c0-ac02-45b6845f30a8)
+
 # Descrição do projeto
 O Jogo do Número Secreto desafia o jogador a descobrir um número secreto dentro de um intervalo específico. A cada tentativa, o jogador recebe feedback sobre se o número fornecido está acima, abaixo ou é igual ao número secreto, além de informar o número de tentativas necessárias que o usuário precisou para adivinhar o número.O objetivo é descobrir o número com o menor número de tentativas possível.
 
